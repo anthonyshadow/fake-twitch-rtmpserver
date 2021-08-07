@@ -1,0 +1,22 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "\"# fake-twitch-rtmpserver, Run with Fake twitch for streams\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyshadow/fake-twitch-rtmpserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyshadow/fake-twitch-rtmpserver/issues"
+  },
+  "homepage": "https://github.com/anthonyshadow/fake-twitch-rtmpserver#readme",
+  "dependencies": {
+    "node-media-server": "^2.3.8"
+  }
+}
